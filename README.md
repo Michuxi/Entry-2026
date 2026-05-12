@@ -20,6 +20,7 @@ Przy pierwszym uruchomieniu pliku `.exe` system Windows może wyświetlić komun
 
 1. Kliknij **"Więcej informacji"**.
 2. Wybierz **"Uruchom mimo to"**.
+
 Komunikat powinien pojawic się tylko raz. Program był testowany, jest w pełni bezieczny. Każdy plik .exe bez certyfikatu windows traktuje jako potencjalne zagrożenie. Nie jestem w stanie tego obejść, oraz żeby program był w 100% darmowy.
 
 ---
@@ -52,6 +53,7 @@ Komunikat powinien pojawic się tylko raz. Program był testowany, jest w pełni
 
 ## Zgłaszanie błędów
 Wszelkie zauważone błędy, oraz sugestie usprawnień, proszę zgłaszać na platformie GitHub w zakładce Issues. Bardzo ułatwi mi to pracę.
+* **[ZGŁOŚ BŁĄD/SUGESTIĘ USPRAWNIEŃ](https://github.com/Michuxi/Entry_Editor_2026/issues)**
 
 ---
 
