@@ -25,16 +25,6 @@ Taki komunikat najprawdopodobniej wyświetli się tylko przy pierwszym uruchomie
 
 ---
 
-## Co się zmieniło?
-
-* **Baza danych:** Dane klubu/ów oraz zawodników są zapisywale lokalnie na komputerze, przez co nie trzeba za każdym razem dodawać klubu oraz zawodników do zawodów - wystarczy ich zgłosić.
-* **Kreator Sztafet:** Lepszy wygląd edytora sztafet - jest bardziej intuicyjny.
-* **Zgłoszenia indywidualne:** Intuicyjna sekcja do zgłaszania zawodników do konkurencji - brak możliwości zgłoszenia zawodnika do konkurencji do której nie może być zgłoszony.
-* **Raporty HTML:** Dużo bardziej przyjazne dla oka zestawienie zgłoszeń, które w łatwy sposób można wydrukować lub zapisać jako PDF.
-* **Dark Mode:** Interfejs zaprojektowany tak, aby nie męczyć oczu podczas pracy wieczorami.
-* **Rekordy życiowe:** (comming soon)
-
----
 
 ## Zrzuty ekranu
 <img width="1089" height="636" alt="Interfejs1" src="https://github.com/user-attachments/assets/9f1b620f-3725-41e8-824c-f090863c17c8" />
