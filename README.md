@@ -6,12 +6,12 @@ Entry Editor 2026 to aplikacja bazowana na programie Splash Entry Editor 2008, w
 ---
 
 ## Pobierz Program
-Najnowszą wersję programu (plik .exe) znajdziesz zawsze w sekcji **Releases** po prawej stronie.
+Najnowszą wersję programu `plik .exe` znajdziesz zawsze w sekcji **Releases** po prawej stronie z tagiem `Latest`.
 
 PRZED PIERWSZYM ZGŁOSZENIEM ZAWODNIKÓW BARDZO POROSZĘ ZAPOZNAĆ SIĘ Z INSTRUKCJĄ OBSŁUGI - nie zajmie to dużo czasu, a pomoże uniknąć błędów podczas zgłaszania.
 
-* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.1/Entry.Editor.2026.exe)**
-* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.1/Instrukcja.uzytkowania.pdf)**
+* **[KLIKNIJ TUTAJ, ABY POBRAĆ NAJNOWSZĄ WERSJĘ](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.2/Entry.Editor.2026.exe)**
+* **[POBIERZ INSTRUKCJĘ OBSŁUGI (PDF)](https://github.com/Michuxi/Entry_Editor_2026/releases/download/1.0.2/Instrukcja.uzytkowania.pdf)**
 
 ---
 
@@ -54,5 +54,5 @@ Jeśli Entry Editor 2026 oszczędza Twój czas, pomaga Ci w zgłaszaniu zawodnik
 
 ---
 **Autor:** Michał Gołąb  
-**Wersja:** 1.0.1 (Maj 2026)  
+**Wersja:** 1.0.2 (Maj 2026)  
 *Projekt nie jest oprogramowaniem Open Source. Wszystkie prawa zastrzeżone.*
